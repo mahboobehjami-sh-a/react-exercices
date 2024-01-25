@@ -26,5 +26,5 @@ export const course = {
     name: COURSE_NAME,
     currentSession : sessionNumber,
     startDate: START_DATE,
-    teacher
+    teacher 
 }
